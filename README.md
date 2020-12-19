@@ -1,6 +1,6 @@
 # Redi Panel
 Redi Panel is a video game control panel for Linux and PHP
-![PHP](https://www.php.net/)
+![PHP](https://www.php.net/releases/8.0/index.php?style=flat)
 ### Installation
 1. Download the reposity whit the green button
 2. Unzip the zip file
