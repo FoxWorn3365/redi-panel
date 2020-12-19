@@ -14,4 +14,9 @@ We suggest:
 - Web Service: NGINX
 - Space Required: 0.5GB Disk Space (Without Server)
 
-###
+### Program Required:
+- Web Server (NGINX, Apache2)   `apt instll nginx`
+- PHP 7.4                       `apt install php-7.4`
+- ssh2                          `apt install php-ssh2`
+
+
